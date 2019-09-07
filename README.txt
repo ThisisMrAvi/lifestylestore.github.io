@@ -1,6 +1,4 @@
-﻿*******************Internshala VTC Web Development Project Solution ******************************************
-
-DESCRIPTION: This is the solution to the lifestyle store website which is an e-Commerce website.
+#This is the solution to the lifestyle store website which is an e-Commerce website.
 
 Extract the files from project_solution.zip.
 
