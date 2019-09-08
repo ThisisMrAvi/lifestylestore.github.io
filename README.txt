@@ -1,8 +1,7 @@
-Markup :  # This is the solution to the lifestyle store website which is an e-Commerce website. #
+# This is the solution to the lifestyle store website which is an e-Commerce website. 
 
-Extract the files from project_solution.zip.
-
-Markup : ## _____________________________________________Folder Structure__________________________________________________ ##
+Extract the files from project_solution.zip
+## _____________________________________________Folder Structure__________________________________________________
 	
 	
 	project_solution/
@@ -47,8 +46,7 @@ Markup : ## _____________________________________________Folder Structure_______
 	├──  signup.php
 	├──  signup_script.php
 	└──  success.php
-
-Markup : ## ____________________________________________SETUP______________________________________________________________ ##				
+## ____________________________________________SETUP______________________________________________________________			
 1.) Start the Apache and MySQL modules using the XAMPP controller.
 2.) Open the phpMyAdmin and create a database "store". 
 3.) Import the lifestylestore.sql file present in the zip folder.
